@@ -4,14 +4,17 @@
 > 
 > https://tolusuri-prathyusha.github.io/Portfolio/html.html
 ## Website Preview
-![image](https://github.com/Tolusuri-prathyusha/Portfolio/assets/113997379/663f0028-c025-4f62-8608-17e4dc476cfc)
+> ![image](https://github.com/Tolusuri-prathyusha/Portfolio/assets/113997379/f70b3c5f-6a82-4607-bb66-1e8678a65218)
+
 
 
 > To view a live example, **[click here](https://tolusuri-prathyusha.github.io/Portfolio/html.html)**
-## Features 📋
-⚡️ Fully Responsive\
-⚡️ Valid HTML5 & CSS3 & JS(ES6)\
-⚡️ Easy to modify
+## Technologies Used📋
+⚡️	HTML5\
+⚡️	CSS3\
+⚡️	JavaScript (ES6)\
+⚡️	Git\
+⚡️	GitHub
 
 ## Tools Used 🛠️
 * [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
