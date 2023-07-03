@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-> A simple responsive portfolio website for Web Developers!\
+> A simple responsive portfolio website for Web Developers!
 > 
 > https://tolusuri-prathyusha.github.io/Portfolio/html.html
 ## Website Preview
